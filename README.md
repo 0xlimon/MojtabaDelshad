@@ -24,9 +24,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mojtabadelshad"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mojtabadelshad" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mojtabadelshad&show_icons=true&bg_color=f0f0f0&locale=en&layout=compact" alt="mojtabadelshad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mojtabadelshad&show_icons=true&bg_color=e6e6e6&locale=en" alt="mojtabadelshad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mojtabadelshad&theme=highcontrast" alt="mojtabadelshad" /></p>
