@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mojtaba Delshad</h1>
+<h1 align="center">Hi 👋, I'm Limon</h1>
 <h3 align="center">A passionate Mobile developer from Iran :D</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mojtabadelshad&label=Profile%20views&color=0e75b6&style=flat-square" alt="mojtabadelshad" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mojtabadelshad" alt="mojtabadelshad" /></a> </p>
 
 - 🔭 I’m currently working on **Music Stream Service**
 
@@ -11,7 +7,6 @@
 
 - 💬 Ask me about **Dart, Flutter and NodeJS**
 
-- 📫 How to reach me **MojtabaDelshaad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
